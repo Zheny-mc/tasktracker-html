@@ -17,7 +17,7 @@ body {
 .main-page {
     display: flex;
     flex-direction: column;
-    justify-self: space-between;
+    justify-content: space-between;
 }
 
 /* header */
